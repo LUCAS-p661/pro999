@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+}
+.www {
+    color: aquamarine;
+    position: absolute;
+    top: 10%;
+    left: 25%;
+}
+h2{
+    font-size: 32px;
+    color: #F33;
+    font-size: 32px;
+  margin-top: 600px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+  margin: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  }
